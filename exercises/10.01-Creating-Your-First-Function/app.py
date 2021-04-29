@@ -1,7 +1,11 @@
-def add_numbers(a,b):
-    # YOUR CODE HERE
-    # remember to "return", all functions must always return something
+def add_numbers(a, b):
+  print(a + b)
+  print(add_numbers(3, 4))
+
+# def is_odd(my_number):
+#   	return (my_number % 2 != 0)
 
 
-
-print(add_numbers(3,4))
+# def my_main_code():
+#     # your code here
+#     print(is_odd(45345))

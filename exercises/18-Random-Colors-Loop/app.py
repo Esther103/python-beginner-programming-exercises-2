@@ -19,6 +19,23 @@ def get_allStudentColors():
     example_color = 1
     students_array = []
     #your loop here
+    for i in range(10):
+        numero = random.randint(1, 4)
+        print(get_color)
+
+
+
+get_allStudentColors()
+
+
+#     def standards_maker():
+#     #your code here
+#     for i in range(300):
+         
+#         print('will write questions if I am stuck')
+        
+
+# standards_maker()
 
 
 
